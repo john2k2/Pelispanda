@@ -98,7 +98,7 @@ h1{
     text-align: left;
 }
 body{
-    background-image: url("/img/asset 2.jpeg");
+    background-image: url("img/asset 2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
