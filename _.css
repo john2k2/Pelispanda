@@ -118,7 +118,7 @@ body{
     
 }
 .section-grid2{
-    background-image: url("/img/shoko.jpg");
+    background-image: url("img/shoko.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     width: 309px;
