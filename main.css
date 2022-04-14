@@ -98,7 +98,7 @@ h1{
     text-align: left;
 }
 body{
-    background-image: url("img/asset 2.jpeg");
+    background-image: url("http://127.0.0.1:5500/index.html#");
     background-repeat: no-repeat;
     background-size: cover;
 }
